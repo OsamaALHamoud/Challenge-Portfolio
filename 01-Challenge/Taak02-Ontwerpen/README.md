@@ -31,7 +31,7 @@ Je wordt beoordeeld op:
 
 ### :heart: Bronnen
 
-* [Wireframes & Mockups: voorbeelden, tips en tools](https://www.goodbytes.be/article/wireframes-mockups-voorbeelden-tips-en-tools)
+* [Wireframes & Mockups: voorbeelden, tips en tools](https://www6yet.goodbytes.be/article/wireframes-mockups-voorbeelden-tips-en-tools)
 * [Wat is een wireframe? (VIDEO 2:05 min)](https://vib.by/v/71C1cjxmc)
 * [Trending Color Palettes](https://coolors.co/palettes/trending) op coolers.co
 * [Webdesign is informatie organiseren](https://www.lauraschoenmakers.nl/webdesign-is-informatie-organiseren/#Ontwerp_met_je_bezoeker_in_het_achterhoofd)
