@@ -59,10 +59,21 @@ h2 {
     width: 40%;
      }
 
-     img{
-         position: absolute;
-        width: 250px;       
+     .foto1{
+
+        position: absolute;
         display: flex;
         right: 50px;
         top: 100px;
      }
+     img {
+        width: 250px;       
+
+     }
+    
+   .foto2 {
+    position: absolute;
+    display: flex;
+    right: 50px;
+    top: 300px;
+   }
